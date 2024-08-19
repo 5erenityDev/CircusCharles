@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\SB_3D_Circus_Charlie\\CircusCharles\\CircusCharles\\CircusCharles.csproj": {}
+    "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\CircusCharles\\CircusCharles\\CircusCharles\\CircusCharles.csproj": {}
   },
   "projects": {
-    "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\SB_3D_Circus_Charlie\\CircusCharles\\CircusCharles\\CircusCharles.csproj": {
+    "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\CircusCharles\\CircusCharles\\CircusCharles\\CircusCharles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\SB_3D_Circus_Charlie\\CircusCharles\\CircusCharles\\CircusCharles.csproj",
+        "projectUniqueName": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\CircusCharles\\CircusCharles\\CircusCharles\\CircusCharles.csproj",
         "projectName": "CircusCharles",
-        "projectPath": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\SB_3D_Circus_Charlie\\CircusCharles\\CircusCharles\\CircusCharles.csproj",
+        "projectPath": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\CircusCharles\\CircusCharles\\CircusCharles\\CircusCharles.csproj",
         "packagesPath": "C:\\Users\\Seren\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\SB_3D_Circus_Charlie\\CircusCharles\\CircusCharles\\obj\\",
+        "outputPath": "D:\\School\\EKU\\Spring 2022\\CSC 316\\Programs\\CircusCharles\\CircusCharles\\CircusCharles\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,22 +59,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.14, 3.1.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
